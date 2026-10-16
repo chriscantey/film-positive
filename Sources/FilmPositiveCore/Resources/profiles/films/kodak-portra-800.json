@@ -1,0 +1,17 @@
+{
+ "datasheetDyeGamma": {
+  "b": 1.149,
+  "g": 1,
+  "r": 0.979,
+  "source": {
+   "method": "straight-line fit to the published characteristic curve over one log H window shared by all three channels, [-2.16, -0.26], on Kodak's printed lux-second axis, anchored at the printed ISO 800 through the ISO 5800 speed point (green and the slower of red and blue, each at minimum density plus 0.15), which sits -0.05 log H from where ISO 800 predicts, a shift of -0.04, which makes the window Kodak's [-2.2, -0.3]",
+   "publication": "Kodak E-4040 (2025), figure E40440E",
+   "url": "https://kodakprofessional.com/sites/default/files/2025-07/e4040.pdf"
+  }
+ },
+ "id": "kodak-portra-800",
+ "maker": "Kodak",
+ "name": "Kodak Portra 800",
+ "note": "Dye gammas are this stock's own, read off its maker's published characteristic curve. Nothing here is measured from a roll.",
+ "whiteDensity": 1.081
+}

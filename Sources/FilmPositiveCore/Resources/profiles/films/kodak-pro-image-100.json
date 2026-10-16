@@ -1,0 +1,17 @@
+{
+ "datasheetDyeGamma": {
+  "b": 1.18,
+  "g": 1,
+  "r": 0.966,
+  "source": {
+   "method": "straight-line fit to the published characteristic curve over one log H window shared by all three channels, [-2.56, -0.66], on Kodak's printed lux-second axis, anchored at the sheet's printed EI 100 through the ISO 5800 speed point (green and the slower of red and blue, each at minimum density plus 0.15), which this 1997 sheet places 0.36 log H (about 1.2 stops) faster than EI 100 predicts, a shift of +0.36, which makes the window Kodak's [-2.2, -0.3]",
+   "publication": "Kodak E-4L, July 1997, archived copy",
+   "url": "https://web.archive.org/web/20040618063308id_/http://www.kodak.com:80/global/en/professional/support/techPubs/e4L/e4L.pdf"
+  }
+ },
+ "id": "kodak-pro-image-100",
+ "maker": "Kodak",
+ "name": "Kodak Pro Image 100",
+ "note": "Dye gammas are this stock's own, read off its maker's published characteristic curve. Nothing here is measured from a roll. Kodak no longer hosts this sheet, so the copy read is the Internet Archive's 2004 capture of Kodak's own file. The sheet says the film's characteristics are similar to those of Kodak Gold films. The 1997 sheet places the speed point 0.36 log H faster than its printed EI 100, so the window is anchored at the printed speed.",
+ "whiteDensity": 1.144
+}

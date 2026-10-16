@@ -1,0 +1,13 @@
+{
+ "activities": [
+  {
+   "name": "balanceChannels",
+   "scope": "frame",
+   "strength": 1.0
+  }
+ ],
+ "id": "harman-switch-azure",
+ "maker": "Harman",
+ "name": "Harman Switch Azure 125",
+ "note": "No curve numbers of its own, deliberately. Harman's data sheet for it (B26) carries a wedge spectrogram, a reciprocity chart and scanner settings, but no characteristic curve, so there is nothing here to ship and it renders on the generic stock's dye gammas. What earns it a row is its activity, and the sheet is why: Harman writes that the film 'does not have an orange mask. This can affect scanner response, and some adjustment may therefore be required', and recommends a per-channel normalization when converting. balanceChannels is that operator, each color channel's own black and white point, applied before the tone step so None, Flat and Bold keep meaning what they mean. Its parameters live here rather than in the app: strength 1.0, the whole operator, and scope 'frame', measured on the frame being developed. Two more facts from the same sheet: the film is unmasked on a clear acetate base and reads magenta to purple, and its layers are swapped, so blue light is recorded in the red channel and red light in the blue channel. Harman also warns that too much normalization flattens the film's character."
+}

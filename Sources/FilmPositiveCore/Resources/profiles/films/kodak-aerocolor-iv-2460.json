@@ -1,0 +1,17 @@
+{
+ "datasheetDyeGamma": {
+  "b": 1.172,
+  "g": 1,
+  "r": 0.955,
+  "source": {
+   "method": "straight-line fit to the published characteristic curve over one log H window shared by all three channels, [-2.2, -0.3]",
+   "publication": "Kodak AS-2652 (New 10-09), Low Contrast panel",
+   "url": "https://www.kodak.com/content/pdfs/amc/KODAK-AEROCOLOR-IV-Negative-Film-2460-datasheet-en.pdf"
+  }
+ },
+ "id": "kodak-aerocolor-iv-2460",
+ "maker": "Kodak",
+ "name": "Kodak Aerocolor IV 2460",
+ "note": "Dye gammas are this stock's own, read off its maker's published characteristic curve. Nothing here is measured from a roll. Read from the sheet's Low Contrast panel, C-41 at 3'15\", the standard C-41 development time. Also sold as SantaColor 100, Flic Film Elektra 100 and Karmir 160, whose sellers each say it is this film. The window stays on Kodak's printed lux-second axis. The sheet's speed point sits about one stop fast of ISO 100, but the only speed it prints is an aerial film speed, EAFS or ISO A 125, which Kodak says is not a conventional film speed, so there is nothing valid to anchor it to.",
+ "whiteDensity": 1.013
+}

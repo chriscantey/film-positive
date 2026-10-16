@@ -1,0 +1,5 @@
+{
+ "id": "bw-generic",
+ "name": "Black & White",
+ "note": "The one black and white choice, and there is deliberately no second one. A silver-gelatin negative has no dye mask, so its density is spectrally neutral: base ratios are 1:1:1 by physics and there is nothing per channel to fit. Every black and white market name in aliases.json resolves here. What differs between black and white stocks is the characteristic curve, which is a render choice per frame, not a profile choice per roll."
+}

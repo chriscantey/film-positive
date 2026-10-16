@@ -1,0 +1,148 @@
+{
+ "films": {
+  "arista-400": {
+   "to": "bw-generic"
+  },
+  "arista-edu-ultra-400": {
+   "to": "bw-generic"
+  },
+  "black-and-white": {
+   "to": "bw-generic"
+  },
+  "bw": {
+   "to": "bw-generic"
+  },
+  "cinestill-50d": {
+   "crossProcessed": true,
+   "to": "kodak-vision3-50d"
+  },
+  "cinestill-800t": {
+   "activities": [
+    {
+     "name": "balanceChannels",
+     "scope": "frame",
+     "strength": 1.0
+    }
+   ],
+   "crossProcessed": true,
+   "to": "kodak-vision3-500t"
+  },
+  "ektacolor-pro-160": {
+   "to": "kodak-portra-160"
+  },
+  "ektacolor-pro-400": {
+   "to": "kodak-portra-400"
+  },
+  "ektacolor-pro-800": {
+   "to": "kodak-portra-800"
+  },
+  "flic-film-elektra-100": {
+   "to": "kodak-aerocolor-iv-2460"
+  },
+  "fomapan-100": {
+   "to": "bw-generic"
+  },
+  "fomapan-200": {
+   "to": "bw-generic"
+  },
+  "fomapan-400": {
+   "to": "bw-generic"
+  },
+  "hp5": {
+   "to": "bw-generic"
+  },
+  "ilford-delta-3200": {
+   "to": "bw-generic"
+  },
+  "ilford-fp4-plus": {
+   "to": "bw-generic"
+  },
+  "ilford-hp5": {
+   "to": "bw-generic"
+  },
+  "ilford-hp5-plus": {
+   "to": "bw-generic"
+  },
+  "ilford-pan-f-plus": {
+   "to": "bw-generic"
+  },
+  "ilford-xp2-super": {
+   "to": "bw-generic"
+  },
+  "karmir-160": {
+   "to": "kodak-aerocolor-iv-2460"
+  },
+  "kentmere-100": {
+   "to": "bw-generic"
+  },
+  "kentmere-400": {
+   "to": "bw-generic"
+  },
+  "kodak-colorplus-200": {
+   "to": "kodacolor-200"
+  },
+  "kodak-ektacolor-800": {
+   "to": "ektacolor-pro-800"
+  },
+  "kodak-portra-160": {
+   "to": "ektacolor-pro-160"
+  },
+  "kodak-portra-400": {
+   "to": "ektacolor-pro-400"
+  },
+  "kodak-portra-800": {
+   "to": "ektacolor-pro-800"
+  },
+  "kodak-pro-image-100": {
+   "to": "kodacolor-100"
+  },
+  "kodak-tmax-100": {
+   "to": "bw-generic"
+  },
+  "kodak-tmax-400": {
+   "to": "bw-generic"
+  },
+  "kodak-tmax-p3200": {
+   "to": "bw-generic"
+  },
+  "kodak-tri-x-400": {
+   "to": "bw-generic"
+  },
+  "kodak-trix-400": {
+   "to": "bw-generic"
+  },
+  "kodak-vision3-250d-remjet-removed": {
+   "to": "kodak-vision3-250d"
+  },
+  "kodak-vision3-500t-remjet-removed": {
+   "to": "kodak-vision3-500t"
+  },
+  "kodak-vision3-50d-remjet-removed": {
+   "to": "kodak-vision3-50d"
+  },
+  "lomography-cn-800": {
+   "to": "kodak-ultra-max-800"
+  },
+  "mono": {
+   "to": "bw-generic"
+  },
+  "reflx-lab-320d-ahu": {
+   "crossProcessed": true,
+   "to": "kodak-vision3-250d"
+  },
+  "reflx-lab-50d-ahu": {
+   "crossProcessed": true,
+   "to": "kodak-vision3-50d"
+  },
+  "reflx-lab-640t-ahu": {
+   "crossProcessed": true,
+   "to": "kodak-vision3-500t"
+  },
+  "santacolor-100": {
+   "to": "kodak-aerocolor-iv-2460"
+  },
+  "tri-x": {
+   "to": "bw-generic"
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "datasheetDyeGamma": {
+  "b": 1.124,
+  "g": 1,
+  "r": 0.955,
+  "source": {
+   "method": "straight-line fit to the published characteristic curve over one log H window shared by all three channels, [0.78, 2.68], on the sheet's own relative log exposure axis, anchored to Kodak's lux-second axis at the sheet's printed ISO 125/22\u00b0 through the ISO 5800 speed point (green and the slower of red and blue, each at minimum density plus 0.15, reached at relative log H 1.029), a shift of -2.98, which makes the window Kodak's [-2.2, -0.3]",
+   "publication": "Harman Phoenix 125 technical data sheet H26",
+   "url": "https://www.harmanphoto.co.uk/amfile/file/download/file/1973/product/2277/"
+  }
+ },
+ "id": "harman-phoenix-125",
+ "maker": "Harman",
+ "name": "Harman Phoenix 125",
+ "note": "Dye gammas are this stock's own, read off its maker's published characteristic curve. Nothing here is measured from a roll. Its own emulsion as far as its maker says: Harman's sheet ties it to no other stock, although the curve it prints is the same figure as on the Phoenix 200 sheet. The sheet's speed line reads ISO 125/22\u00b0 with EI 200 in the same sentence, and the anchor uses the ISO 125.",
+ "whiteDensity": 1.831
+}

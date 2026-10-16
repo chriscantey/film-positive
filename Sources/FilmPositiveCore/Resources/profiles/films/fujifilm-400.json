@@ -1,0 +1,17 @@
+{
+ "datasheetDyeGamma": {
+  "b": 0.951,
+  "g": 1,
+  "r": 0.893,
+  "source": {
+   "method": "straight-line fit to the published characteristic curve over one log H window shared by all three channels, [-2.42, -0.52], on Fujifilm's printed lux-second axis, anchored at the sheet's printed ISO 400/27\u00b0 through the ISO 5800 speed point (green and the slower of red and blue, each at minimum density plus 0.15), which sits 0.21 log H (about 0.7 stop) faster on that axis than ISO 400 predicts, a shift of +0.22, which makes the window Kodak's [-2.2, -0.3]",
+   "publication": "Fujifilm AF3-0262E",
+   "url": "https://www.ishootfujifilm.com/uploads/SUPERIA%20400%20Data%20Sheet.pdf"
+  }
+ },
+ "id": "fujifilm-400",
+ "maker": "Fujifilm",
+ "name": "Fujifilm 400",
+ "note": "Dye gammas are this stock's own, read off its maker's published characteristic curve. Nothing here is measured from a roll. Fujifilm's sheets print lux-seconds, but their ISO 5800 speed points do not sit where Kodak's do, so the window is anchored at the printed speed like every sheet not on Kodak's footing.",
+ "whiteDensity": 1.246
+}

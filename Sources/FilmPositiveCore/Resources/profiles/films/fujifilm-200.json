@@ -1,0 +1,17 @@
+{
+ "datasheetDyeGamma": {
+  "b": 0.917,
+  "g": 1,
+  "r": 0.806,
+  "source": {
+   "method": "straight-line fit to the published characteristic curve over one log H window shared by all three channels, [-2.54, -0.64], on Fujifilm's printed lux-second axis, anchored at the sheet's printed ISO 200/24\u00b0 through the ISO 5800 speed point (green and the slower of red and blue, each at minimum density plus 0.15), which sits 0.33 log H (about 1.1 stop) faster on that axis than ISO 200 predicts, a shift of +0.34, which makes the window Kodak's [-2.2, -0.3]",
+   "publication": "Fujifilm AF3-0261E (issue date 09 Feb 2022)",
+   "url": "https://asset.fujifilm.com/www/us/files/2022-02/f4606a5c43dacb389a1d9eb35e0b18db/fujifilm-200-speed-film_data-sheet.pdf"
+  }
+ },
+ "id": "fujifilm-200",
+ "maker": "Fujifilm",
+ "name": "Fujifilm 200",
+ "note": "Dye gammas are this stock's own, read off its maker's published characteristic curve. Nothing here is measured from a roll. It used to be an alias of Kodak Gold 200, which rested on Fujifilm's first sheet of December 2021, since withdrawn. The current sheet, AF3-0261E of February 2022, prints a different curve, so it has its own profile. Fujifilm's sheets print lux-seconds, but their ISO 5800 speed points do not sit where Kodak's do, so the window is anchored at the printed speed like every sheet not on Kodak's footing.",
+ "whiteDensity": 1.174
+}

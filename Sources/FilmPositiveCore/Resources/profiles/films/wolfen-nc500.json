@@ -1,0 +1,17 @@
+{
+ "datasheetDyeGamma": {
+  "b": 0.847,
+  "g": 1,
+  "r": 1.014,
+  "source": {
+   "method": "straight-line fit to the published characteristic curve over one log H window shared by all three channels, [-2.6, -0.7], on the sheet's own log H axis, which prints no unit, anchored to Kodak's lux-second axis at the sheet's printed ISO 400/27\u00b0 through the ISO 5800 speed point (green and the slower of red and blue, each at minimum density plus 0.15), a shift of +0.40, which makes the window Kodak's [-2.2, -0.3]",
+   "publication": "FilmoTec Datenblatt WOLFEN NC500 (no document code printed, PDF dated 2022-10-28)",
+   "url": "https://filmotec.de/wp-content/uploads/2023/04/Datenblatt-Wolfen-NC500.pdf"
+  }
+ },
+ "id": "wolfen-nc500",
+ "maker": "Wolfen",
+ "name": "Wolfen NC500",
+ "note": "Dye gammas are this stock's own, read off its maker's published characteristic curve. Nothing here is measured from a roll. Its own emulsion. The maker's sheet calls it a cinema negative film offered in 35 mm for C-41, names InovisCoat GmbH as coater in its footer, and ties it to no other stock.",
+ "whiteDensity": 1.022
+}
