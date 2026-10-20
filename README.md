@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://filmpositive.app">Website</a>
   &nbsp;&middot;&nbsp;
-  <a href="https://github.com/chriscantey/film-positive/releases/latest">Download</a>
+  <a href="https://github.com/chriscantey/film-positive/releases/latest/download/FilmPositive.zip">Download</a>
   &nbsp;&middot;&nbsp;
   <a href="https://filmtether.app">See Film Tether</a>
 </p>
@@ -72,7 +72,7 @@ With no specific timeline, this is roughly the order I expect things to land.
 
 ## Install
 
-Grab the latest build from [Releases](https://github.com/chriscantey/film-positive/releases), unzip it, and open it.
+[Download the latest build](https://github.com/chriscantey/film-positive/releases/latest/download/FilmPositive.zip), unzip it, and open it. Older versions are on the [Releases](https://github.com/chriscantey/film-positive/releases) page.
 
 If you let it (Settings > Updates), the app checks filmpositive.app once a day for a new version. It's a standard HTTPS request with a User-Agent header like `Film Positive/0.1.0 Sparkle/2.10.0`, and nothing else. As with any web request, the server can see your IP address.
 
